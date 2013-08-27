@@ -20,7 +20,7 @@ $(document).ready(function(){
 				url: url,
 				data: {
 					q: searchMovie,
-					apiKey: 'hcrurhsttexasrgfm2y6yahm'
+					apiKey: 'gpf9agt8tb8m8r4dc5dnhmgk'
 				},
 					dataType: 'jsonp',
 					success: showMovies
